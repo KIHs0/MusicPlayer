@@ -72,7 +72,6 @@ function changeMusic(direction) {
   console.log(musicIndex);
   play();
 }
-const width = playerProgress.clientWidth;
 
 function setProgressBar(e) {
   const width = playerProgress.clientWidth;
@@ -104,6 +103,3 @@ music.addEventListener("timeupdate", updateprogressbar);
 playerProgress.addEventListener("click", setProgressBar);
 
 loadMusic(songs[musicIndex]);
-
-
-
