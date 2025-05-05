@@ -1,5 +1,4 @@
-#🎼 Music Player Project
-# Music Player
+# 🎶🎼Music Player
 
 🙋‍♂️Welcome to the Music Player project! Here's a musical note to get you in the groove:
  <!-- Replace with your project's logo image -->
